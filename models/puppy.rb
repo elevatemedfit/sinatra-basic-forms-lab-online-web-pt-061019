@@ -10,8 +10,8 @@ class Puppy
     @months_old = months_old
   end
 
-  def months_old(months_old)
-    age_in_months = age/12
-    age_in_months
-  end
+  # def months_old(months_old)
+  #   age_in_months = age/12
+  #   age_in_months
+  # end
 end
